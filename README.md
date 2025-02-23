@@ -3,7 +3,7 @@
 1. At least 2 level one headings (DONE)
 2. At least 2 level 2 headings (DONE)
 3. A list (Ordered or Unordered)  (DONE)
-4. At least one link (DONE
+4. At least one link (DONE)
 
 
 # README Exercies
