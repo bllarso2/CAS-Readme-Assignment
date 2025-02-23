@@ -1,4 +1,4 @@
-#This is th eheading of my document
+# This is th eheading of my document
 
 This is a great way to publish documentation, if:
 
