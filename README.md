@@ -1,4 +1,6 @@
-# This is th eheading of my document
+# This is the heading of my document
+## This is the second-level heading
+### This is the third-level heading
 
 This is a great way to publish documentation, if:
 
