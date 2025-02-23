@@ -6,7 +6,7 @@
 4. At least one link (DONE)
 
 
-# README Exercies
+# README Exercise
 
 ## Sample Section
 
